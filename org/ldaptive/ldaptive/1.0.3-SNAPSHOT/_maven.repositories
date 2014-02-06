@@ -1,0 +1,16 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Feb 06 14:25:52 EST 2014
+ldaptive-1.0.3-SNAPSHOT.pom>=
+ldaptive-1.0.3-SNAPSHOT-tests.jar.asc>=
+ldaptive-1.0.3-SNAPSHOT-dist.tar.gz.asc>=
+ldaptive-1.0.3-SNAPSHOT-dist.zip>=
+ldaptive-1.0.3-SNAPSHOT-sources.jar.asc>=
+ldaptive-1.0.3-SNAPSHOT-sources.jar>=
+ldaptive-1.0.3-SNAPSHOT-javadoc.jar>=
+ldaptive-1.0.3-SNAPSHOT-dist.zip.asc>=
+ldaptive-1.0.3-SNAPSHOT.pom.asc>=
+ldaptive-1.0.3-SNAPSHOT-javadoc.jar.asc>=
+ldaptive-1.0.3-SNAPSHOT.jar.asc>=
+ldaptive-1.0.3-SNAPSHOT.jar>=
+ldaptive-1.0.3-SNAPSHOT-tests.jar>=
+ldaptive-1.0.3-SNAPSHOT-dist.tar.gz>=
