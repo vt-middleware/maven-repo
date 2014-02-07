@@ -1,16 +1,11 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Feb 06 14:13:19 EST 2014
-cryptacular-1.0-SNAPSHOT.jar.asc>=
-cryptacular-1.0-SNAPSHOT-javadoc.jar.asc>=
+#Fri Feb 07 14:46:26 EST 2014
 cryptacular-1.0-SNAPSHOT.jar>=
-cryptacular-1.0-SNAPSHOT-tests.jar.asc>=
-cryptacular-1.0-SNAPSHOT.pom.asc>=
 cryptacular-1.0-SNAPSHOT-tests.jar>=
-cryptacular-1.0-SNAPSHOT-dist.zip.asc>=
 cryptacular-1.0-SNAPSHOT.pom>=
 cryptacular-1.0-SNAPSHOT-dist.tar.gz>=
-cryptacular-1.0-SNAPSHOT-dist.tar.gz.asc>=
-cryptacular-1.0-SNAPSHOT-sources.jar.asc>=
+cryptacular-1.0-SNAPSHOT.pom>vt-middleware=
+cryptacular-1.0-SNAPSHOT.jar>vt-middleware=
 cryptacular-1.0-SNAPSHOT-dist.zip>=
 cryptacular-1.0-SNAPSHOT-sources.jar>=
 cryptacular-1.0-SNAPSHOT-javadoc.jar>=
