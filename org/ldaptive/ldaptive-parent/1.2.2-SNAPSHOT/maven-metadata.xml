@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.ldaptive</groupId>
+  <artifactId>ldaptive-parent</artifactId>
+  <version>1.2.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20161121.223109</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20161121223109</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.2.2-20161121.223109-1</value>
+        <updated>20161121223109</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
