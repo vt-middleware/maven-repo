@@ -5,32 +5,32 @@
   <version>2.0.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20191018.015516</timestamp>
-      <buildNumber>10</buildNumber>
+      <timestamp>20191018.022309</timestamp>
+      <buildNumber>11</buildNumber>
     </snapshot>
-    <lastUpdated>20191018015516</lastUpdated>
+    <lastUpdated>20191018022309</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>2.0.0-20191018.015516-10</value>
-        <updated>20191018015516</updated>
+        <value>2.0.0-20191018.022309-11</value>
+        <updated>20191018022309</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2.0.0-20191018.015516-10</value>
-        <updated>20191018015516</updated>
+        <value>2.0.0-20191018.022309-11</value>
+        <updated>20191018022309</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>2.0.0-20191018.015516-10</value>
-        <updated>20191018015516</updated>
+        <value>2.0.0-20191018.022309-11</value>
+        <updated>20191018022309</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>2.0.0-20191018.015516-10</value>
-        <updated>20191018015516</updated>
+        <value>2.0.0-20191018.022309-11</value>
+        <updated>20191018022309</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
