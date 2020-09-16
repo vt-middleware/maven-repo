@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.ldaptive</groupId>
+  <artifactId>ldaptive-templates-jdk8</artifactId>
+  <versioning>
+    <versions>
+      <version>2.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200916184619</lastUpdated>
+  </versioning>
+</metadata>
