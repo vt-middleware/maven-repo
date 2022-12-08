@@ -3,16 +3,16 @@
   <groupId>org.ldaptive</groupId>
   <artifactId>ldaptive-parent</artifactId>
   <versioning>
-    <lastUpdated>20221117134331</lastUpdated>
+    <lastUpdated>20221208123300</lastUpdated>
     <snapshot>
-      <timestamp>20221117.134331</timestamp>
-      <buildNumber>9</buildNumber>
+      <timestamp>20221208.123300</timestamp>
+      <buildNumber>10</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2.1.2-20221117.134331-9</value>
-        <updated>20221117134331</updated>
+        <value>2.1.2-20221208.123300-10</value>
+        <updated>20221208123300</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
