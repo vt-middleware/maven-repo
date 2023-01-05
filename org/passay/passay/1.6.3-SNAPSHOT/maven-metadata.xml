@@ -3,39 +3,39 @@
   <groupId>org.passay</groupId>
   <artifactId>passay</artifactId>
   <versioning>
-    <lastUpdated>20220805183906</lastUpdated>
+    <lastUpdated>20230105025151</lastUpdated>
     <snapshot>
-      <timestamp>20220805.183906</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20230105.025151</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.6.3-20220805.183906-1</value>
-        <updated>20220805183906</updated>
+        <value>1.6.3-20230105.025151-2</value>
+        <updated>20230105025151</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.6.3-20220805.183906-1</value>
-        <updated>20220805183906</updated>
+        <value>1.6.3-20230105.025151-2</value>
+        <updated>20230105025151</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>1.6.3-20220805.183906-1</value>
-        <updated>20220805183906</updated>
+        <value>1.6.3-20230105.025151-2</value>
+        <updated>20230105025151</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.6.3-20220805.183906-1</value>
-        <updated>20220805183906</updated>
+        <value>1.6.3-20230105.025151-2</value>
+        <updated>20230105025151</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>tests</classifier>
         <extension>jar</extension>
-        <value>1.6.3-20220805.183906-1</value>
-        <updated>20220805183906</updated>
+        <value>1.6.3-20230105.025151-2</value>
+        <updated>20230105025151</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
