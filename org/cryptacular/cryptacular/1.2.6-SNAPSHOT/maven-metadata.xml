@@ -3,39 +3,39 @@
   <groupId>org.cryptacular</groupId>
   <artifactId>cryptacular</artifactId>
   <versioning>
-    <lastUpdated>20230105025019</lastUpdated>
+    <lastUpdated>20230814220721</lastUpdated>
     <snapshot>
-      <timestamp>20230105.025019</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20230814.220721</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.2.6-20230105.025019-1</value>
-        <updated>20230105025019</updated>
+        <value>1.2.6-20230814.220721-2</value>
+        <updated>20230814220721</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.2.6-20230105.025019-1</value>
-        <updated>20230105025019</updated>
+        <value>1.2.6-20230814.220721-2</value>
+        <updated>20230814220721</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>1.2.6-20230105.025019-1</value>
-        <updated>20230105025019</updated>
+        <value>1.2.6-20230814.220721-2</value>
+        <updated>20230814220721</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.2.6-20230105.025019-1</value>
-        <updated>20230105025019</updated>
+        <value>1.2.6-20230814.220721-2</value>
+        <updated>20230814220721</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>tests</classifier>
         <extension>jar</extension>
-        <value>1.2.6-20230105.025019-1</value>
-        <updated>20230105025019</updated>
+        <value>1.2.6-20230814.220721-2</value>
+        <updated>20230814220721</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
