@@ -3,21 +3,21 @@
   <groupId>org.ldaptive</groupId>
   <artifactId>ldaptive-shade</artifactId>
   <versioning>
-    <lastUpdated>20250109051654</lastUpdated>
+    <lastUpdated>20250110011600</lastUpdated>
     <snapshot>
-      <timestamp>20250109.051654</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20250110.011600</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2.5.0-20250109.051654-1</value>
-        <updated>20250109051654</updated>
+        <value>2.5.0-20250110.011600-2</value>
+        <updated>20250110011600</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>2.5.0-20250109.051654-1</value>
-        <updated>20250109051654</updated>
+        <value>2.5.0-20250110.011600-2</value>
+        <updated>20250110011600</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

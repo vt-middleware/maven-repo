@@ -3,39 +3,39 @@
   <groupId>org.ldaptive</groupId>
   <artifactId>ldaptive-beans-spring</artifactId>
   <versioning>
-    <lastUpdated>20250109051654</lastUpdated>
+    <lastUpdated>20250110011600</lastUpdated>
     <snapshot>
-      <timestamp>20250109.051654</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20250110.011600</timestamp>
+      <buildNumber>3</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2.5.0-20250109.051654-2</value>
-        <updated>20250109051654</updated>
+        <value>2.5.0-20250110.011600-3</value>
+        <updated>20250110011600</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>2.5.0-20250109.051654-2</value>
-        <updated>20250109051654</updated>
+        <value>2.5.0-20250110.011600-3</value>
+        <updated>20250110011600</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>2.5.0-20250109.051654-2</value>
-        <updated>20250109051654</updated>
+        <value>2.5.0-20250110.011600-3</value>
+        <updated>20250110011600</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>2.5.0-20250109.051654-2</value>
-        <updated>20250109051654</updated>
+        <value>2.5.0-20250110.011600-3</value>
+        <updated>20250110011600</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>tests</classifier>
         <extension>jar</extension>
-        <value>2.5.0-20250109.051654-2</value>
-        <updated>20250109051654</updated>
+        <value>2.5.0-20250110.011600-3</value>
+        <updated>20250110011600</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
