@@ -3,21 +3,21 @@
   <groupId>org.passay</groupId>
   <artifactId>passay-parent</artifactId>
   <versioning>
-    <lastUpdated>20260216155609</lastUpdated>
+    <lastUpdated>20260217192818</lastUpdated>
     <snapshot>
-      <timestamp>20260216.155609</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20260217.192818</timestamp>
+      <buildNumber>3</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2.0.0-20260216.155609-2</value>
-        <updated>20260216155609</updated>
+        <value>2.0.0-20260217.192818-3</value>
+        <updated>20260217192818</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom.asc</extension>
-        <value>2.0.0-20260216.155609-2</value>
-        <updated>20260216155609</updated>
+        <value>2.0.0-20260217.192818-3</value>
+        <updated>20260217192818</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
