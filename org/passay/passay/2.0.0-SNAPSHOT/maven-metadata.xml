@@ -3,55 +3,55 @@
   <groupId>org.passay</groupId>
   <artifactId>passay</artifactId>
   <versioning>
-    <lastUpdated>20260217192818</lastUpdated>
+    <lastUpdated>20260322144742</lastUpdated>
     <snapshot>
-      <timestamp>20260217.192818</timestamp>
-      <buildNumber>3</buildNumber>
+      <timestamp>20260322.144742</timestamp>
+      <buildNumber>4</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2.0.0-20260217.192818-3</value>
-        <updated>20260217192818</updated>
+        <value>2.0.0-20260322.144742-4</value>
+        <updated>20260322144742</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>2.0.0-20260217.192818-3</value>
-        <updated>20260217192818</updated>
+        <value>2.0.0-20260322.144742-4</value>
+        <updated>20260322144742</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>2.0.0-20260217.192818-3</value>
-        <updated>20260217192818</updated>
+        <value>2.0.0-20260322.144742-4</value>
+        <updated>20260322144742</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>2.0.0-20260217.192818-3</value>
-        <updated>20260217192818</updated>
+        <value>2.0.0-20260322.144742-4</value>
+        <updated>20260322144742</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar.asc</extension>
-        <value>2.0.0-20260217.192818-3</value>
-        <updated>20260217192818</updated>
+        <value>2.0.0-20260322.144742-4</value>
+        <updated>20260322144742</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom.asc</extension>
-        <value>2.0.0-20260217.192818-3</value>
-        <updated>20260217192818</updated>
+        <value>2.0.0-20260322.144742-4</value>
+        <updated>20260322144742</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar.asc</extension>
-        <value>2.0.0-20260217.192818-3</value>
-        <updated>20260217192818</updated>
+        <value>2.0.0-20260322.144742-4</value>
+        <updated>20260322144742</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar.asc</extension>
-        <value>2.0.0-20260217.192818-3</value>
-        <updated>20260217192818</updated>
+        <value>2.0.0-20260322.144742-4</value>
+        <updated>20260322144742</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
