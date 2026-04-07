@@ -3,55 +3,55 @@
   <groupId>org.ldaptive</groupId>
   <artifactId>ldaptive-beans-spring</artifactId>
   <versioning>
-    <lastUpdated>20260207152633</lastUpdated>
+    <lastUpdated>20260407170549</lastUpdated>
     <snapshot>
-      <timestamp>20260207.152633</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20260407.170549</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2.5.1-20260207.152633-1</value>
-        <updated>20260207152633</updated>
+        <value>2.5.1-20260407.170549-2</value>
+        <updated>20260407170549</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>2.5.1-20260207.152633-1</value>
-        <updated>20260207152633</updated>
+        <value>2.5.1-20260407.170549-2</value>
+        <updated>20260407170549</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>2.5.1-20260207.152633-1</value>
-        <updated>20260207152633</updated>
+        <value>2.5.1-20260407.170549-2</value>
+        <updated>20260407170549</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>2.5.1-20260207.152633-1</value>
-        <updated>20260207152633</updated>
+        <value>2.5.1-20260407.170549-2</value>
+        <updated>20260407170549</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar.asc</extension>
-        <value>2.5.1-20260207.152633-1</value>
-        <updated>20260207152633</updated>
+        <value>2.5.1-20260407.170549-2</value>
+        <updated>20260407170549</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom.asc</extension>
-        <value>2.5.1-20260207.152633-1</value>
-        <updated>20260207152633</updated>
+        <value>2.5.1-20260407.170549-2</value>
+        <updated>20260407170549</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar.asc</extension>
-        <value>2.5.1-20260207.152633-1</value>
-        <updated>20260207152633</updated>
+        <value>2.5.1-20260407.170549-2</value>
+        <updated>20260407170549</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar.asc</extension>
-        <value>2.5.1-20260207.152633-1</value>
-        <updated>20260207152633</updated>
+        <value>2.5.1-20260407.170549-2</value>
+        <updated>20260407170549</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
